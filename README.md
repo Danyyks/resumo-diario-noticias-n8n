@@ -31,3 +31,4 @@ Para não dizer que é mágica, aqui estão as peças do quebra-cabeça:
 > "Automação não é sobre preguiça, é sobre eficiência seletiva." — Eu, provavelmente, enquanto lia o resumo de hoje.
 
 # redumo-diario-noticias-n8n
+# redumo-diario-noticias-n8n
